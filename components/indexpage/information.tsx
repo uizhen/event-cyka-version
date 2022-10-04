@@ -25,10 +25,10 @@ const Information: React.FC = () => {
               </h1>
             </div>
             <p className="w-[22rem] opacity-[0.8] leading-6">
-              Amwerk has experienced great growth over the years, but we’ve
+              Amwerk has experienced great growth over the years, but we ve
               strived to maintain a family atmosphere where employees can thrive
               and succeed. Without a doubt, the people behind Amwerk are the
-              cornerstone of our company’s success.
+              cornerstone of our companys success.
             </p>
             <ul className="">
               <li className="flex items-center p-2">
