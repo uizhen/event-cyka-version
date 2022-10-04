@@ -21,7 +21,7 @@ const Information: React.FC = () => {
                 Journey
               </h1>
               <h1 className="text-[3.75rem] w-[40rem] pb-4 ">
-                Proud of it's Journey
+                Proud of its Journey
               </h1>
             </div>
             <p className="w-[22rem] opacity-[0.8] leading-6">
