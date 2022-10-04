@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  line-height: 1.1;
+  letter-spacing: 0em;
+}
+
+.stroke {
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+}
+
+.dot-pattern {
+  background-image: radial-gradient(#e0a923 3px, transparent 3px);
+  background-size: 15px 15px;
+}
