@@ -42,7 +42,7 @@ const ParaSection: React.FC = () => {
             </p>
           </div>
         </div>
-        <div className="relative w-[24rem] h-[24rem] rounded-[30px] overflow-hidden flex ml-10 bg-[red]">
+        <div className="relative w-[24rem] h-[24rem] rounded-[30px] overflow-hidden flex ml-10">
           <Image src={"/assets/realman.jpg"} width={700} height={700} />
           <div className="flex items-center px-9 leading-6 absolute w-full bg-[#09c6a7] opacity-[0.9] h-[55%] bottom-0">
             <p className="text-white">
@@ -123,7 +123,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative bg-[brown] col-span-2 flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative  col-span-2 flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -141,7 +141,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative col-span-2 lg:col-span-1 bg-[yellow] flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative col-span-2 lg:col-span-1  flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -156,7 +156,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative bg-[pink] flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative  flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -173,7 +173,7 @@ const ParaSection: React.FC = () => {
                 </div>
               </div>
               <div className="grid w-full grid-cols-3 gap-6 lg:grid-cols-5">
-                <div className="relative bg-[blue] flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -188,7 +188,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative col-span-2 lg:col-span-1 bg-[yellow] flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative col-span-2 lg:col-span-1  flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -203,7 +203,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative bg-[brown] col-span-2 flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative  col-span-2 flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>
@@ -221,7 +221,7 @@ const ParaSection: React.FC = () => {
                     </div>
                   </div>
                 </div>
-                <div className="relative bg-[pink] flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
+                <div className="relative  flex justify-center items-center cursor-pointer h-[16rem] group overflow-hidden">
                   <div className="absolute z-10 text-white text-[30px] text-center transition-all duration-700 group-hover:scale-110 group-hover:opacity-0">
                     Industrial aero products
                   </div>

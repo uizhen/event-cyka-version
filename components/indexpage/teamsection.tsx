@@ -27,7 +27,7 @@ const TeamSection: React.FC = () => {
             top custom solution manufacturers in the world.
           </p>
         </div>
-        <div className="w-full h-[135vh] bg-[white]">
+        <div className="w-full h-[135vh] bg-[white] pt-10">
           <div className="w-full min-h-[120vh]  bg-[#f1f1f1] rounded-tl-[20rem] rounded-bl-[20rem]">
             <div className="flex flex-col items-center justify-center w-full gap-10 -translate-y-10 md:flex-row lg:flex-row">
               <div className="flex flex-col gap-10 lg:flex-row">

@@ -57,7 +57,7 @@ const Information: React.FC = () => {
               </li>
             </ul>
           </div>
-          <div className="overflow-hidden z-10 bg-[red] w-full h-[30rem] lg:flex hidden  stranslate-x-6 rounded-[60px]">
+          <div className="overflow-hidden z-10  w-full h-[30rem] lg:flex hidden  stranslate-x-6 rounded-[60px]">
             <Image
               src={"/assets/minisection.png"}
               width={720}
