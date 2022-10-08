@@ -62,7 +62,6 @@ const Masthead: React.FC = () => {
               loop={true}
               onSlideChange={(index) => {
                 setAIndex(index.realIndex);
-                console.log(index.realIndex + "rindex");
               }}
               autoplay={{
                 delay: 2500,
@@ -70,7 +69,6 @@ const Masthead: React.FC = () => {
               modules={[EffectFade, Navigation, Pagination, Autoplay]}
             >
               {titles.map(function (d, idx) {
-                console.log(idx);
                 return (
                   <SwiperSlide key={d}>
                     <div

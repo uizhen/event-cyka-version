@@ -7,7 +7,7 @@ const CircleSection: React.FC = () => {
     <section className="pt-20 bg-white">
       <div className="min-h-[75vh] rounded-br-[20rem] rounded-tr-[20rem] bg-[#f1f1f1] flex lg:flex-row flex-col items-center lg:px-[8rem] justify-between ">
         <div className="">
-          <div className="relative w-[35rem] h-[35rem] bg-[black] flex rounded-[100%] justify-center">
+          <div className="relative lg:w-[35rem] lg:h-[35rem] bg-[black] flex rounded-[100%] justify-center">
             <Image
               src={"/assets/circlesection.png"}
               width={750}
@@ -18,14 +18,14 @@ const CircleSection: React.FC = () => {
             <div className="absolute w-[10rem] border-[10px] rounded-[100%] z-10  border-[#09c6a7] opacity-[0.4] translate-x-[10rem] h-[10rem]"></div>
           </div>
         </div>
-        <div className="flex flex-col gap-y-4 lg:w-[40rem]">
+        <div className=" flex flex-col gap-y-4 lg:w-[40rem] w-full">
           <div>
             <h1 className="text-[1.5rem]">Our solutions and services</h1>
           </div>
           <b className="text-[2.5rem] lg:text-[3.7rem]">
             Amwerk always gets the job done
           </b>
-          <p className="w-[32rem] lg:w-[20rem] leading-6">
+          <p className="w-full lg:w-[20rem] leading-6">
             Distinctively re-engineer revolutionary meta-services and premium
             architectures. Intrinsically incubate intuitive opportunities and
             real-time potentialities.

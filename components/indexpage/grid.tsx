@@ -13,7 +13,7 @@ const Grid: React.FC = () => {
   return (
     <section className="flex flex-col py-20 bg-white ">
       <div className="grid items-center justify-center grid-cols-2 lg:flex lg:flex-row gap-x-10">
-        <div className="w-[260px] p-4">
+        <div className="w-full lg:w-[260px] p-4">
           <div className="pb-4 text-[#00396a]">
             <GiMonkeyWrench size={70} />
           </div>
@@ -24,7 +24,7 @@ const Grid: React.FC = () => {
             tail processes.
           </p>
         </div>
-        <div className="w-[260px] p-4">
+        <div className="w-full lg:w-[260px] p-4">
           <div className="pb-4 text-[#00396a]">
             <GiPowerGenerator size={70} />
           </div>
@@ -35,7 +35,7 @@ const Grid: React.FC = () => {
             the bottom line.
           </p>
         </div>
-        <div className="w-[260px] p-4">
+        <div className="w-full lg:w-[260px] p-4">
           <div className="pb-4 text-[#00396a]">
             <TbDeviceDesktopAnalytics size={70} />
           </div>
@@ -46,7 +46,7 @@ const Grid: React.FC = () => {
             revolutionary ROI.
           </p>
         </div>
-        <div className="w-[260px] p-4">
+        <div className="w-full lg:w-[260px] p-4">
           <div className="pb-4 text-[#00396a]">
             <FaVest size={60} />
           </div>

@@ -4,8 +4,8 @@ import { BiCheckCircle } from "react-icons/bi";
 
 const Information: React.FC = () => {
   return (
-    <section className="bg-white">
-      <div className=" relative  mx-6 lg:mx-10 min-h-[75vh]  flex">
+    <div className="bg-white">
+      <div className=" relative overflow-hidden lg:overflow-visible lg:mx-10 min-h-[75vh]  flex">
         <Image
           src={"/assets/30.webp"}
           width={1900}
@@ -57,7 +57,7 @@ const Information: React.FC = () => {
               </li>
             </ul>
           </div>
-          <div className=" overflow-hidden z-10 bg-[red] w-full h-[30rem] translate-x-6 rounded-[60px]">
+          <div className="overflow-hidden z-10 bg-[red] w-full h-[30rem] lg:flex hidden  stranslate-x-6 rounded-[60px]">
             <Image
               src={"/assets/minisection.png"}
               width={720}
@@ -67,7 +67,7 @@ const Information: React.FC = () => {
           </div>
         </div>
       </div>
-    </section>
+    </div>
   );
 };
 
