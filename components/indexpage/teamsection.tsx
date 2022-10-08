@@ -23,8 +23,8 @@ const TeamSection: React.FC = () => {
           </div>
           <p className="w-[28.8rem] leading-6 opacity-[0.7] -translate-y-8 text-center lg:px-0 px-10">
             Year after year, multiple industries recognize Amwerk as a leader in
-            quality, service, and innovation. We're proud to be one of the top
-            custom solution manufacturers in the world.
+            quality, service, and innovation. We&apos;re proud to be one of the
+            top custom solution manufacturers in the world.
           </p>
         </div>
         <div className="w-full h-[135vh] bg-[white]">
