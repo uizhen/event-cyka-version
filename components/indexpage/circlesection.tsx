@@ -18,36 +18,49 @@ const CircleSection: React.FC = () => {
             <div className="absolute w-[10rem] border-[10px] rounded-[100%] z-10  border-[#09c6a7] opacity-[0.4] translate-x-[10rem] h-[10rem]"></div>
           </div>
         </div>
-        <div className=" flex flex-col gap-y-4 lg:w-[40rem] w-full">
+        <div className=" flex flex-col gap-y-2 lg:w-[40rem] w-full pb-10">
           <div>
             <h1 className="text-[1.5rem]">Our solutions and services</h1>
           </div>
           <b className="text-[2.5rem] lg:text-[3.7rem]">
-            Amwerk always gets the job done
+            Хуралд оролцсоноор ямар үнэ цэнийг авах вэ?
           </b>
           <p className="w-full lg:w-[20rem] leading-6">
-            Distinctively re-engineer revolutionary meta-services and premium
-            architectures. Intrinsically incubate intuitive opportunities and
-            real-time potentialities.
+            Хуралд оролцогчдод зориулсан мэдээ мэдээлэл, зөвлөмж...
           </p>
           <ul>
             <li className="flex items-center">
               <div className="text-[#09c6a7] pb-2 pr-1">
                 <BiCheckCircle size={26} />
               </div>
-              Solutions for your manufacturing business
+              Салбарын лидерүүдтэй нүүр тулан уулзаж хамтын ажиллагаа тогтооно
             </li>
             <li className="flex items-center">
               <div className="text-[#09c6a7] pb-2 pr-1">
                 <BiCheckCircle size={26} />
               </div>
-              Production of bespoke tools and machines
+              Эрдэс боловсруулалтын салбарын шинэ дэвшилтэт техник технологи,
+              шилдэг судлаачдын байр суурийг сонсоно
             </li>
             <li className="flex items-center">
               <div className="text-[#09c6a7] pb-2 pr-1">
                 <BiCheckCircle size={26} />
               </div>
-              Designing, building and testing with highest quality
+              Салбарын бодлого, төлөвлөлт, шинэ төслийн талаарх мэдээлэл авна
+            </li>
+            <li className="flex items-center">
+              <div className="text-[#09c6a7] pb-2 pr-1">
+                <BiCheckCircle size={26} />
+              </div>
+              Шинэ техник, технологийн үнэ өртөг, бүтээмжийн талаарх мэдээлэл
+              авна
+            </li>
+            <li className="flex items-center">
+              <div className="text-[#09c6a7] pb-2 pr-1">
+                <BiCheckCircle size={26} />
+              </div>
+              Бага зардлаар цаг хугацаа хэмнэн бизнесээ өргөжүүлэх мэдээлэл
+              авна.
             </li>
           </ul>
         </div>

@@ -18,42 +18,58 @@ const Information: React.FC = () => {
           <div className="z-10 flex flex-col w-full p-10">
             <div className="relative flex">
               <h1 className="absolute text-[8rem] stroke -translate-y-11 opacity-[0.2]">
-                Journey
+                Хурал
               </h1>
               <h1 className="text-[3.75rem] w-[40rem] pb-4 ">
-                Proud of its Journey
+                Хуралд хэн оролцох вэ?
               </h1>
             </div>
             <p className="w-[22rem] opacity-[0.8] leading-6">
-              Amwerk has experienced great growth over the years, but we ve
-              strived to maintain a family atmosphere where employees can thrive
-              and succeed. Without a doubt, the people behind Amwerk are the
-              cornerstone of our companys success.
+              Хуралд оролцох хүмүүсд зориулсан зөвлөмж
             </p>
             <ul className="">
               <li className="flex items-center p-2">
                 <div className="text-[#0adab7] pr-1">
                   <BiCheckCircle size={26} />
                 </div>
-                Solutions for your manufacturing business
+                Засгийн газрын гишүүд, яам агентлагийн газрын дарга,
+                мэргэжилтнүүд
               </li>
               <li className="flex items-center p-2">
                 <div className="text-[#0adab7] pr-1">
                   <BiCheckCircle size={26} />
                 </div>
-                Production of bespoke tools and machines
+                Ашигт малтмалын олборлолт, баяжуулалт, боловсруулалтын компаниуд
               </li>
               <li className="flex items-center p-2">
                 <div className="text-[#0adab7] pr-1">
                   <BiCheckCircle size={26} />
                 </div>
-                Designing, building and testing with highest quality
+                Салбарын эрдэмтэн судлаачид
               </li>
               <li className="flex items-center p-2">
                 <div className="text-[#0adab7] pr-1">
                   <BiCheckCircle size={26} />
                 </div>
-                Delivering the best results for reasonable cost
+                Техник технологийн компаниуд
+              </li>
+              <li className="flex items-center p-2">
+                <div className="text-[#0adab7] pr-1">
+                  <BiCheckCircle size={26} />
+                </div>
+                Лабораторийн үйлчилгээ үзүүлэгч компаниуд
+              </li>
+              <li className="flex items-center p-2">
+                <div className="text-[#0adab7] pr-1">
+                  <BiCheckCircle size={26} />
+                </div>
+                Худалдаа, тээвэр ложистикийн компаниуд
+              </li>
+              <li className="flex items-center p-2">
+                <div className="text-[#0adab7] pr-1">
+                  <BiCheckCircle size={26} />
+                </div>
+                Зөвлөх үйлчилгээ, программ хангамжийн компаниуд г.м
               </li>
             </ul>
           </div>

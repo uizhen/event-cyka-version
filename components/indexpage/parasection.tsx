@@ -53,54 +53,50 @@ const ParaSection: React.FC = () => {
           </div>
         </div>
       </div>
-      <section className="bg-[#f1f1f1] -translate-y-[18rem] -mb-[18rem] z-0">
-        <div className="bg-[#0e51ac] lg:w-[20rem]  rounded-bl-[20rem]  min-h-[80vh] translate-x-[0]">
-          <div className="flex items-center w-full lg:w-[100rem] justify-center bg-[#0e51ac]  rounded-tr-[20rem] rounded-bl-[10rem] lg:rounded-bl-[20rem] lg:rounded-tr-[20rem]   min-h-[50vh] translate-y-[18rem]  translate-x-[0rem] z-10">
-            <div className="flex flex-col lg:flex-row">
-              <div className="flex flex-col items-center justify-center text-white gap-y-4">
-                <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
-                  <FaHardHat size={50} />
-                </div>
-                <b>Construction</b>
-                <h1 className="opacity-[0.7]">
-                  Fulfilling client requests on the go
-                </h1>
-              </div>
-              <div className="flex flex-col items-center justify-center text-white gap-y-4">
-                <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
-                  <GiPulleyHook size={50} />
-                </div>
-                <b>Construction</b>
-                <h1 className="opacity-[0.7]">
-                  Fulfilling client requests on the go
-                </h1>
-              </div>
+      <section className="bg-[#0e51ac] w-full h-full flex items-center justify-center p-10 rounded-tr-[20rem]">
+        <div className="flex flex-col gap-10 lg:flex-row">
+          <div className="flex flex-col items-center justify-center text-white gap-y-4">
+            <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
+              <FaHardHat size={50} />
             </div>
-            <div className="flex flex-col lg:flex-row">
-              <div className="flex flex-col items-center justify-center text-white gap-y-4">
-                <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
-                  <GiSandsOfTime size={50} />
-                </div>
-                <b>Construction</b>
-                <h1 className="opacity-[0.7]">
-                  Fulfilling client requests on the go
-                </h1>
-              </div>
-              <div className="flex flex-col items-center justify-center text-white gap-y-4">
-                <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
-                  <GiArcheryTarget size={50} />
-                </div>
-                <b>Construction</b>
-                <h1 className="opacity-[0.7]">
-                  Fulfilling client requests on the go
-                </h1>
-              </div>
+            <b>Construction</b>
+            <h1 className="opacity-[0.7] ">
+              Fulfilling client requests on the go
+            </h1>
+          </div>
+          <div className="flex flex-col items-center justify-center text-white gap-y-4">
+            <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
+              <GiPulleyHook size={50} />
             </div>
+            <b>Construction</b>
+            <h1 className="opacity-[0.7]">
+              Fulfilling client requests on the go
+            </h1>
+          </div>
+        </div>
+        <div className="flex flex-col gap-10 lg:flex-row">
+          <div className="flex flex-col items-center justify-center text-white gap-y-4">
+            <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
+              <GiSandsOfTime size={50} />
+            </div>
+            <b>Construction</b>
+            <h1 className="opacity-[0.7]">
+              Fulfilling client requests on the go
+            </h1>
+          </div>
+          <div className="flex flex-col items-center justify-center text-white gap-y-4">
+            <div className="w-[120px] text-white h-[120px] border-[#09c6a7] border-[7px] flex items-center justify-center rounded-[100%]">
+              <GiArcheryTarget size={50} />
+            </div>
+            <b>Construction</b>
+            <h1 className="opacity-[0.7]">
+              Fulfilling client requests on the go
+            </h1>
           </div>
         </div>
       </section>
-      <section className="min-h-[70vh] bg-[#f1f1f1]">
-        <div className="w-full min-h-[70vh] translate-x-[20rem] translate-y-[3.4rem]  bg-[#0e51ac]">
+      <section className="min-h-[70vh] ">
+        <div className="w-full min-h-[70vh] translate-x-[20rem]   bg-[#0e51ac]">
           <div className="w-full min-h-[70vh] translate-y-[0rem] bg-[#0e51ac] -translate-x-[10rem]">
             <div className="gap-y-6 pt-[6rem] lg:pr-[6rem] px-[2rem] flex flex-col items-center w-full min-h-screen bg-[#f1f1f1] -translate-x-[10rem] rounded-tr-[10rem] lg:rounded-tr-[20rem]">
               <div className="grid w-full grid-cols-3 gap-6 lg:grid-cols-5">

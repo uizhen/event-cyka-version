@@ -4,6 +4,7 @@ import { IoChatbubbleEllipsesOutline } from "react-icons/io5";
 import { TbMap2 } from "react-icons/tb";
 import { FaMailBulk } from "react-icons/fa";
 import { CgCalculator } from "react-icons/cg";
+import { Keyframes, Scroll } from "scrollex";
 
 const Navbar: React.FC = () => {
   return (

@@ -28,7 +28,11 @@ const Masthead: React.FC = () => {
     setImageLoaded(true);
   }, []);
 
-  const titles = ["Challenge Solved", "Precission machinery", "Dick Cuter"];
+  const titles = [
+    "Эрдэс боловсруулалт",
+    "Чуулга уулзалт",
+    "Үзэсгэлэн Танилцуулга",
+  ];
   const props1 = [
     "Interactively procrastinate high-payoff content without backward-compatible data. Quickly cultivate optimal processes and tactical architectures.",
     "Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust idea customer service.",

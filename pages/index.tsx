@@ -9,10 +9,12 @@ import TeamSection from "../components/indexpage/teamsection";
 import LogoSlider from "../components/indexpage/logoslider";
 import MapSection from "../components/indexpage/mapsection";
 import Footer from "../components/indexpage/footer";
+import Test from "../test";
 
 const Home: NextPage = () => {
   return (
     <>
+      {/* <Test /> */}
       <Navbar />
       <Masthead />
       <Grid />
