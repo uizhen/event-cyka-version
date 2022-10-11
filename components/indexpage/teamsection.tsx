@@ -33,40 +33,32 @@ const TeamSection: React.FC = () => {
               <div className="flex flex-col gap-10 lg:flex-row">
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
               </div>
               <div className="flex flex-col gap-10 lg:flex-row">
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
               </div>
@@ -75,40 +67,32 @@ const TeamSection: React.FC = () => {
               <div className="flex flex-col gap-10 lg:flex-row">
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
               </div>
               <div className="flex flex-col gap-10 lg:flex-row">
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
                 <WorkerSection
                   image={"/assets/sec1.jpg"}
-                  pro={"Coowner, Lead Machinist"}
-                  name={"Peter Kirkpatrick"}
-                  para={
-                    "At Amwerk, we value a culture of collaboration and service. We are passionate about serving our clients to the fullest, while continuously growing."
-                  }
+                  pro={"Мэргэжил, Албан тушаал"}
+                  name={"Доржиин Бат"}
+                  para={"Паналестийн танилцуулга, хэлсэн үг"}
                   url={"https://www.facebook.com/"}
                 />
               </div>

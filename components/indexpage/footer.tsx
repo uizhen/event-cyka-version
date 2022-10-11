@@ -30,27 +30,25 @@ const Footer: React.FC = () => {
                 <div className="text-[#09c6a7]">
                   <IoLocationSharp size={24} />
                 </div>
-                <h1 className="">
-                  3644 Rocky River Drive, Cleveland, OH 44111, USA
-                </h1>
+                <h1 className="">Хаяг байршил</h1>
               </div>
               <div className="flex gap-2">
                 <div className="text-[#09c6a7]">
                   <IoLocationSharp size={24} />
                 </div>
-                <h1>1099 Springland Ave, Michigan City, IN 46360, USA</h1>
+                <h1 className="">Хаяг байршил</h1>
               </div>
               <div className="flex gap-2">
                 <div className="text-[#09c6a7]">
                   <AiFillPhone size={24} />
                 </div>
-                <h1>414-214-0362</h1>
+                <h1>90770210</h1>
               </div>
               <div className="flex gap-2">
                 <div className="text-[#09c6a7]">
                   <FaPaperPlane size={24} />
                 </div>
-                <h1>info@amwerk.com</h1>
+                <h1>mmpa@mmpa.mn</h1>
               </div>
             </div>
             <div className="">

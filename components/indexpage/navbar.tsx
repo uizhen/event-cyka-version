@@ -20,7 +20,7 @@ const Navbar: React.FC = () => {
             </div>
             <div>
               <h1>Give us a call</h1>
-              <h1>123-456-789</h1>
+              <h1>+976 907 702 10</h1>
             </div>
           </div>
           <div className="flex items-center gap-2">
@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
             </div>
             <div>
               <h1>Give us a call</h1>
-              <h1>123-456-789</h1>
+              <h1>+976 907 702 10</h1>
             </div>
           </div>
           <div className="flex items-center gap-2">
@@ -38,7 +38,7 @@ const Navbar: React.FC = () => {
             </div>
             <div>
               <h1>Give us a call</h1>
-              <h1>123-456-789</h1>
+              <h1>+976 907 702 10</h1>
             </div>
           </div>
         </div>
